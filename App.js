@@ -8,6 +8,7 @@ const AppLayout = () => {
     <div>
       <Header />
       <Body />
+      <Footer />
     </div>
   );
 };
